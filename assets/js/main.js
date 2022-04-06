@@ -248,7 +248,7 @@
   window.onload = typeWriter;
 
   var i = 0;
-var txt = 'Developer :)'; /* The text */
+var txt = 'Full-stack Developer :)'; /* The text */
 var speed = 180; /* The speed/duration of the effect in milliseconds */
 
 function typeWriter() {
